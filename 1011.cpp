@@ -1,7 +1,8 @@
 #include<iostream>
-
 using namespace std;
 int main(void){
-	std::cout<<"Hello";
+	char ch;
+	cin>>ch;
+	cout<<ch;
 	return 0;
 }

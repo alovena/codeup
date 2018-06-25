@@ -1,7 +1,6 @@
 #include<iostream>
-
 using namespace std;
 int main(void){
-	std::cout<<"Hello";
+	cout<<"\"C:\\Download\\hello.cpp\"";
 	return 0;
 }
